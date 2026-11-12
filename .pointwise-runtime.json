@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [
+    ["python3", "cep/cli.py", "setup"]
+  ],
+  "verify": [
+    "python3",
+    "cep/cli.py",
+    "verify"
+  ],
+  "demo": [
+    "python3",
+    "cep/cli.py",
+    "demo"
+  ]
+}

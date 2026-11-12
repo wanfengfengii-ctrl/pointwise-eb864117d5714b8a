@@ -1,0 +1,7 @@
+{
+  "rows": [
+    ["sensor-1", 1, "dev-7", 0, "ALARM", false],
+    ["sensor-2", 1, "dev-7", 2, "OFFLINE", false],
+    ["sensor-3", 1, "dev-8", 0, "ALARM", false]
+  ]
+}
